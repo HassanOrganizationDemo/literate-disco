@@ -1,38 +1,54 @@
-# Description
+### Jira ticket link:
+Please provide Jira link which is related to this PR
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-Fixes # (issue)
 
-## Type of change
+---
+### Description:
+Please write a short description of your change
 
-Please delete options that are not relevant.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
 
-# How Has This Been Tested?
+---
+### What has changed:
+1. Please list down what you have done here (eg. fix bug ...)
+2. Please list down what you have done here (eg. add feat ...)
+3. Please list down what you have done here (eg. refactor ...)
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
-- [ ] Test A
-- [ ] Test B
 
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* SDK:
+---
+### How changes are applied:
+1 -> Please write a detailed explanation of the changes listed above
 
-# Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+
+2 -> Please write a detailed explanation of the changes listed above
+
+
+
+3 -> Please write a detailed explanation of the changes listed above
+
+
+
+---
+### Areas affected:
+1. Please list down areas affected by your changes
+2. Please list down areas affected by your changes
+3. Please list down areas affected by your changes
+
+
+
+---
+### What reviewers should know:
+Please highlight any additional information reviewers should know when reviewing this PR
+For example:
+- Credentials needed
+- How to reproduce a bug
+- ...etc
+
+
+
+---
+### Screenshots:
+Please attach any files related to your changes.
